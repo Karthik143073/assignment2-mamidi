@@ -1,7 +1,7 @@
 # assignment2-mamidi
 <!DOCTYPE html>
 <head>
-<h5>karthik reddy mamidi</h5>
+<h1>karthik reddy mamidi</h1>
 
 <h3>maldives</h3>
 

@@ -17,6 +17,17 @@
 3. travel to maldives
 
 
+* Camera
+* Food
+   * Biscuits
+   * chocolates
+   * chips
+* clothes
+
+
+
+
+
 
 
 

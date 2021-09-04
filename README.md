@@ -11,8 +11,8 @@
 ---
 
 1. go to kansas city airport
-    1.Walk to the bustop
-    2.travel by bus to the airport
+    1. Walk to the bustop
+    2. travel by bus to the airport
 2. travel to DFW airport
 3. travel to maldives
 

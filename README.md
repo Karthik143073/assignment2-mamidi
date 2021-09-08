@@ -45,6 +45,7 @@ I have buyed all the food items which was requied for me and the most preffered 
 -----
 
 >  “The purpose of our lives is to be happy.”  - *Benjemen*
+
 >  “Life is not a problem to be solved, but a reality to be experienced.” - *David*
 
 

@@ -48,6 +48,64 @@ I have buyed all the food items which was requied for me and the most preffered 
 
 >  “Life is not a problem to be solved, but a reality to be experienced.” - *David*
 
+------
+
+### Code fencing
+
+>  Geometry (from the Ancient Greek: γεωμετρία; geo- "earth", -metron "measurement") is, with arithmetic, one of the oldest branches of mathematics. It is concerned with properties of space that are related with distance, shape, size, and relative position of figures.[1] A mathematician who works in the field of geometry is called a geometer.
+
+For more information go to the link :<https://en.wikipedia.org/wiki/Geometry>
+
+
+
+
+
+```
+struct point2d {
+    ftype x, y;
+    point2d() {}
+    point2d(ftype x, ftype y): x(x), y(y) {}
+    point2d& operator+=(const point2d &t) {
+        x += t.x;
+        y += t.y;
+        return *this;
+    }
+    point2d& operator-=(const point2d &t) {
+        x -= t.x;
+        y -= t.y;
+        return *this;
+    }
+    point2d& operator*=(ftype t) {
+        x *= t;
+        y *= t;
+        return *this;
+    }
+    point2d& operator/=(ftype t) {
+        x /= t;
+        y /= t;
+        return *this;
+    }
+    point2d operator+(const point2d &t) const {
+        return point2d(*this) += t;
+    }
+    point2d operator-(const point2d &t) const {
+        return point2d(*this) -= t;
+    }
+    point2d operator*(ftype t) const {
+        return point2d(*this) *= t;
+    }
+    point2d operator/(ftype t) const {
+        return point2d(*this) /= t;
+    }
+};
+point2d operator*(ftype a, point2d b) {
+    return b * a;
+}
+
+```
+
+For more information : <https://cp-algorithms.com/geometry/basic-geometry.html>
+
 
 
 

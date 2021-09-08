@@ -26,6 +26,20 @@
 
 [AboutMe](https://github.com/Karthik143073/assignment2-mamidi/blob/main/AboutMe.md)
 
+-----
+
+### Table
+
+I have buyed all the food items which was requied for me and the most preffered by me. The food includes the ice cream, salads, veggies and burgers which are bought from recommended stores. The detailed information about the food is listed below. 
+
+
+
+|  food           |   location   |   price   |
+|-----------------|--------------|-----------|
+| butterscotch    |   walmart    |  $8.99    |
+| salads          |   walmart    |  $9.00    |
+| veggetables     |   hyvee      |  $25.00   |
+| burgers         |   mcdonalds  |  $7.00    |
 
 
 

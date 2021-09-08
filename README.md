@@ -8,7 +8,6 @@
 
 ### directions to maldives
 
----
 
 1. go to kansas city airport
     1. Walk to the bustop
@@ -16,7 +15,6 @@
 2. travel to DFW airport
 3. travel to maldives
 
-### Esential items to be taken
 * Camera
 * Food
    * Biscuits
@@ -24,8 +22,11 @@
    * chips
 * clothes
 
+### AboutMe
 
-<https://github.com/Karthik143073/assignment2-mamidi/blob/main/AboutMe.md>
+[AboutMe](https://github.com/Karthik143073/assignment2-mamidi/blob/main/AboutMe.md)
+
+
 
 
 

@@ -41,6 +41,12 @@ I have buyed all the food items which was requied for me and the most preffered 
 | veggetables     |   hyvee      |  $25.00   |
 | burgers         |   mcdonalds  |  $7.00    |
 
+### pithy quotes
+-----
+
+> “The purpose of our lives is to be happy.”  - * Benjemen *
+> “Life is not a problem to be solved, but a reality to be experienced.” - * David *
+
 
 
 

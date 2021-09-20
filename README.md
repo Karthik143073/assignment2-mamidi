@@ -35,7 +35,7 @@ I have buyed all the food items which was requied for me and the most preffered 
 
 
 |  food           |   location   |   price   |
-|-----------------|--------------|-----------|
+|-----------------|------------------------- |
 | butterscotch    |   walmart    |  $8.99    |
 | salads          |   walmart    |  $9.00    |
 | veggetables     |   hyvee      |  $25.00   |
